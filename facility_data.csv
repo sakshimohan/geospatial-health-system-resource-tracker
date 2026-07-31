@@ -1,0 +1,678 @@
+district,fac_name,level_of_care,lat,long,fac_owner
+Balaka,Balaka_DHO_Pharmacy,2,-14.98501399,34.94952,Government of Malawi
+Balaka,Chiendausiku_Health_Centre,1a,-15.01859198,35.07665995,Government of Malawi
+Balaka,Chimatiro_Health_Centre,1a,-14.962681,35.023092,Government of Malawi
+Balaka,Kalembo_Health_Centre,1a,-14.84272758,35.17109559,Government of Malawi
+Balaka,Kwitanda_Health_Centre,1a,-15.06475603,35.09287503,Government of Malawi
+Balaka,Mbera_Health_Centre,1a,-14.91065516,35.05347478,Government of Malawi
+Balaka,Namanolo_Health_Centre,1a,-15.00074405,35.19003902,Government of Malawi
+Balaka,Namdumbo_Health_Centre,1a,-14.85187673,35.22560478,Government of Malawi
+Balaka,Phalula_Health_Centre,1b,-15.22552312,34.89305552,CHAM
+Balaka,Phimbi_Health_Centre,1a,-15.25083824,35.10700083,Government of Malawi
+Balaka,Utale_1_Health_Centre,1b,-15.16961607,35.07259034,CHAM
+Balaka,Balaka_Dream_Clinic,1b,-15.00304871,34.95247881,CHAM
+Balaka,Kankao_Health_Centre,1b,-15.05395502,34.92228583,CHAM
+Balaka,Ulongwe_Health_Centre,1b,-14.86216819,35.17688178,CHAM
+Balaka,Utale_2_Health_centre,1b,-15.16961607,35.07259034,CHAM
+Balaka,Comfort_Clinic,1b,-15.00279933,34.9525604,CHAM
+Blantyre,Bangwe_Health_Centre,1a,-15.82382,35.08046,Government of Malawi
+Blantyre,Blantyre_DHO_Pharmacy,2,-15.80394045,35.01675471,Government of Malawi
+Blantyre,Chavala_Health_Centre,1a,-15.83372,34.83461,Government of Malawi
+Blantyre,Chikowa_Health_Centre,1a,-13.72943871,33.45819838,Government of Malawi
+Blantyre,Chilaweni,1a,-15.67769914,34.95059812486768,Government of Malawi
+Blantyre,Chileka_Health_Centre,1a,-15.66287489,34.97058131,Government of Malawi
+Blantyre,Chileka_SDA_Health_Centre,1b,-15.65998259,34.92897454,CHAM
+Blantyre,Chilomoni_Health_Centre,1a,-15.7736267,34.98202276,Government of Malawi
+Blantyre,Chimembe_Health_Centre,1a,-15.77750804,34.8853563,Government of Malawi
+Blantyre,Chirimba_Health_Centre,1a,-15.746368,35.022984,Government of Malawi
+Blantyre,Dziwe_Health_Centre,1a,-15.56378247,34.88020892,Government of Malawi
+Blantyre,Gateway_Clinic,1a,-15.80463886,35.01792827,Government of Malawi
+Blantyre,Kadidi_Health_Centre,1a,-15.66080002,35.02240195,Government of Malawi
+Blantyre,Limbe_Health_Centre,1a,-15.816989,35.052019,Government of Malawi
+Blantyre,Lirangwe_Health_Centre,1a,-15.52946137,35.02990477,Government of Malawi
+Blantyre,Lumbira_/_Mitsidi_Health_centre,1b,-15.77706296,34.96868099,CHAM
+Blantyre,Lundu_Health_Centre,1a,-15.42175218,35.01277289,Government of Malawi
+Blantyre,Madziabango_Health_Centre,1a,-15.96776983,34.90830453,Government of Malawi
+Blantyre,Makata_Health_Centre,1a,-15.63019748,35.07955676,Government of Malawi
+Blantyre,Makhetha_Clinic_Health_Centre,1a,-15.78355516,35.06947702,Government of Malawi
+Blantyre,Malabada_Health_centre,1b,-15.76759,35.04446,CHAM
+Blantyre,Mbayani_Health_Centre,1a,-15.77557668,35.00087526,Government of Malawi
+Blantyre,Mdeka_Health_Centre,1a,-15.46737596,34.94276094,Government of Malawi
+Blantyre,Mpemba_Health_Centre,1a,-15.87500575,34.95655198,Government of Malawi
+Blantyre,Mpingo_Maternity,1a,-15.90133704,34.88931182,Government of Malawi
+Blantyre,Namikoko_Health_Centre,1a,-15.48670362,35.07389143,Government of Malawi
+Blantyre,Ndirande_Health_Centre,1a,-15.7784143,35.03972274,Government of Malawi
+Blantyre,Pensulo_Health_Centre,1a,-15.80775128,34.95713072,Government of Malawi
+Blantyre,Queen_Elizabeth_Central_Hospital_Pharmacy,3,-15.80172766,35.02009056,Government of Malawi
+Blantyre,Soche_Maternity_Health_Centre,1a,-15.84059401,35.02327836293498,Government of Malawi
+Blantyre,Soche_SDA_Dispensary,1b,-15.85722391,35.02765473,CHAM
+Blantyre,South_Lunzu_Health_Centre,1a,-15.72706867,35.05449593,Government of Malawi
+Blantyre,Zingwangwa_Health_Centre,1a,-15.82183,35.011904,Government of Malawi
+Blantyre,Mlambe_Hospital,1b,-15.64431432,35.01728843,CHAM
+Blantyre,St_Vincent_Health_centre,1b,-15.91404403,34.95032887,CHAM
+Chikwawa,Bereu_Health_Centre,1a,-16.14832608,34.84922482487431,Government of Malawi
+Chikwawa,Chapananga_Health_Centre,1a,-16.00541836,34.48564569,Government of Malawi
+Chikwawa,Chikwawa_DHO_Pharmacy,2,-16.02352654,34.79273832,Government of Malawi
+Chikwawa,Chipwaila_Health_Centre,1a,-16.3913481,34.77365288,Government of Malawi
+Chikwawa,Chithumba_Health_Centre,1a,-15.80375972,34.4765894,Government of Malawi
+Chikwawa,Dolo_Health_Centre,1a,-16.55351076,34.92451683,Government of Malawi
+Chikwawa,Gaga_Health_Centre,1a,-15.8068111,34.36463613,Government of Malawi
+Chikwawa,Kakoma_Health_Centre,1a,-16.09823053,34.62371346,Government of Malawi
+Chikwawa,Kapichira_Escom_Clinic,1a,-15.89481704,34.75751883,
+Chikwawa,Majete_Hunger_Clinic,1a,-13,22,Government of Malawi
+Chikwawa,Makhwira_Health_Centre,1a,-16.19482407,35.01042174,Government of Malawi
+Chikwawa,Mapelera_Health_Centre,1a,-16.10541191,34.91574118,Government of Malawi
+Chikwawa,Mfera_Health_Centre,1a,-16.06832105,34.86708176,Government of Malawi
+Chikwawa,Mkumaniza_Health_Centre,1a,-16.47944,34.72431,Government of Malawi
+Chikwawa,Nchalo_Hunger_Clinic,1a,-16.27055358,34.86377311,Government of Malawi
+Chikwawa,Ndakwera_Health_Centre,1a,-16.22356447,34.68922921,Government of Malawi
+Chikwawa,Ngabu_Rural/_Community_Hospital,1b,-16.45926883,34.89233322,Government of Malawi
+Chikwawa,Ngabu_SDA_Health_Centre,1b,-16.46663117,34.87313942,CHAM
+Chikwawa,Sucoma_Clinic_Illovo,1a,-16.25833009,34.89172529,
+Chikwawa,Misomali_Health_Centre,1b,-16.03764791,34.53693911,CHAM
+Chikwawa,St_Montfort_Hospital,1b,-15.80717078,34.99846239788798,CHAM
+Chiradzulu,Bilal_Clinic,1a,-15.74156067,35.13057315,
+Chiradzulu,Chiradzulu_DHO_Pharmacy,2,-15.71073435,35.17423266,Government of Malawi
+Chiradzulu,Chitera_Health_Centre,1a,-15.60653685,35.12297227,Government of Malawi
+Chiradzulu,Malavi_Dispensary,1a,-15.83686,35.14867,Government of Malawi
+Chiradzulu,Mauwa_Health_Centre,1a,-15.6527075,35.24993359,Government of Malawi
+Chiradzulu,Mbulumbuzi_Health_Centre,1a,-15.63877734,35.15674982,Government of Malawi
+Chiradzulu,Milepa_Health_Centre,1a,-15.68702439,35.31871167,Government of Malawi
+Chiradzulu,Namadzi_Health_Centre,1a,-15.54662535,35.18766663,Government of Malawi
+Chiradzulu,Namitambo_Health_Centre,1a,-15.84141187,35.27092559,Government of Malawi
+Chiradzulu,Ndunde_Health_Centre,1a,-15.69622803,35.2335107,Government of Malawi
+Chiradzulu,Nkalo_Health_Centre,1a,-15.97059563,35.31032076,Government of Malawi
+Chiradzulu,PIM_Health_Centre,1b,-15.75339758,35.19221772,CHAM
+Chiradzulu,Thumbwe_Health_Centre,1a,-15.76817541,35.24850665,Government of Malawi
+Chiradzulu,St._Joseph_Health_Centre,1b,-15.80143932,35.168121786251994,CHAM
+Chitipa,Chambo_Health_Centre,1b,-9.94394079,33.39805178,CHAM
+Chitipa,Chisansu_Health_Centre,1a,-9.727943469,33.44330544,Government of Malawi
+Chitipa,Chitipa_DHO_Pharmacy,2,-9.70166143,33.26519276,Government of Malawi
+Chitipa,Ifumbo_Health_Centre,1a,-9.60443383,33.40493107,Government of Malawi
+Chitipa,Kameme_Health_Centre,1a,-9.54413269,33.13118735,Government of Malawi
+Chitipa,Kapenda_Health_Centre,1a,-9.4937851,33.24927512,Government of Malawi
+Chitipa,Mahowe_Health_Centre,1a,-10.183192,33.690349,Government of Malawi
+Chitipa,Misuku_Health_Centre,1a,-9.67977933,33.52085966,Government of Malawi
+Chitipa,Msumbe_Health_Center,1b,-9.75094232,33.67593661,CHAM
+Chitipa,Nthalire_Health_Centre,1a,-10.34902237,33.64358715,Government of Malawi
+Chitipa,Wenya_Health_Centre,1a,-10.11313607,33.56343076,Government of Malawi
+Chitipa,Kaseye_Health_Centre,1b,-9.66642531,33.37361862,CHAM
+Dedza,Chikuse_Health_Centre,1a,-14.1507089,34.3191941,Government of Malawi
+Dedza,Chimoto_Health_Centre,1a,-14.44277095,34.01019628,Government of Malawi
+Dedza,Chitowo_Health_Centre,1a,-14.2256346,34.0396484,Government of Malawi
+Dedza,Chongoni_College_of_Forestry_Dispensary,1a,-14.31990964,34.26675806,Government of Malawi
+Dedza,Dedza_DHO_Pharmacy,2,-14.38596,34.33547,Government of Malawi
+Dedza,Dzindevu_Health_Centre,1a,-14.19994032,34.36028775,Government of Malawi
+Dedza,Kachindamoto_Health_Centre,1a,-14.18442793,34.58513229,Government of Malawi
+Dedza,Kafere_Health_Centre,1a,-14.43162083,33.71789749,Government of Malawi
+Dedza,Kalulu_Health_Centre,1a,-13.99685316,34.19741353,Government of Malawi
+Dedza,Kanyezi_Health_Centre,1a,-14.31435955,33.95265619,Government of Malawi
+Dedza,Kaphuka_Health_Centre,1a,-14.15955677,34.189049,Government of Malawi
+Dedza,Kaundu_Health_Centre,1b,-14.29362677,34.62886986,CHAM
+Dedza,Lobi_Health_Centre,1a,-14.39072504,34.0716042,Government of Malawi
+Dedza,Maonde_Health_Centre,1a,-14.40562678,34.11593762,Government of Malawi
+Dedza,Mayani_Health_Centre,1a,-14.09710579,34.24310345,Government of Malawi
+Dedza,Mganja_Health_Centre,1a,-14.42065899,34.52317376,Government of Malawi
+Dedza,Mikondo_Health_Centre,1a,-14.4468656,33.93939348,Government of Malawi
+Dedza,Mjini_Health_Centre,1a,-14.044388,34.238785,Government of Malawi
+Dedza,Mlangali_Health_Centre,1a,-14.41324139,34.27268924,Government of Malawi
+Dedza,Mphathi_Health_Centre,1a,-14.45511574,34.07651736,Government of Malawi
+Dedza,Mphunzi_Health_Centre,1b,-14.37850689,34.17480151,CHAM
+Dedza,Mtakataka_Health_Centre,1a,-14.22776587,34.51475354,Government of Malawi
+Dedza,Mtakataka_Police_College_Health_Centre,1a,-14.22776587,34.51475354,Government of Malawi
+Dedza,Tsoyo_Dispensary,1a,-14.08111051,34.16108968,Government of Malawi
+Dedza,Bembeke_Health_Centre,1b,-14.35795953,34.42448903,CHAM
+Dedza,Chiphwanya_St_Joseph_Health_Centre,1b,-14.07631544,34.25893765,CHAM
+Dedza,Kanyama_Health_Centre,1b,-14.23965438,34.32369557,CHAM
+Dedza,Matumba_Health_Centre,1b,-14.37315597,33.90551596,CHAM
+Dedza,Mdeza_Health_Centre,1a,-15.46737596,34.94276094,Government of Malawi
+Dedza,Mtendere_Hospital,1b,-14.32279404,34.09355912,CHAM
+Dedza,Mua_Hospital,1b,-14.28313704,34.50979526,CHAM
+Dedza,Kasina_Health_Centre,1b,-14.14252785,34.13187744,CHAM
+Dedza,Nakalanzi_Health_Centre,1b,-14.20193905,34.54887795,CHAM
+Dowa,Bowe_Health_Centre,1a,-13.27855912,33.6838442,Government of Malawi
+Dowa,Chakhaza_Health_Centre,1a,-13.44400935,33.64696228,Government of Malawi
+Dowa,Chankhungu_Health_Centre,1a,-13.76486978,34.01469536,Government of Malawi
+Dowa,Chezi_Mission_Hospital,1b,-13.65,34.04,CHAM
+Dowa,Chinkhwiri_Health_Centre,1a,-13.38543856,33.7210117,Government of Malawi
+Dowa,Chisepo_Health_Centre,1a,-13.54389033,33.57312909,Government of Malawi
+Dowa,Chizolowondo_Health_Centre,1a,-13.46340111,33.5130867,Government of Malawi
+Dowa,Dowa_DHO_Pharmacy,2,-13.655002,33.936754,Government of Malawi
+Dowa,Dzaleka_Health_Centre,1a,-13.66147289,33.87034813,Government of Malawi
+Dowa,Dzoole_Health_Centre,1a,-13.58533308,33.66142213,Government of Malawi
+Dowa,Kayembe_Health_Centre,1a,-13.64248919,33.58304545,Government of Malawi
+Dowa,Madisi_Hospital,1b,-13.401613,33.60715781557413,CHAM
+Dowa,Mbingwa_Health_Centre,1a,-13.54422659,33.51481675,Government of Malawi
+Dowa,Mponela_Rural/_Community_Hospital,1b,-13.53245878,33.73731765,Government of Malawi
+Dowa,Msakambewa_Health_Centre,1a,-13.55316784,33.89746766,Government of Malawi
+Dowa,Mvera_Mission_Hospital,1b,-13.73682057,34.12863202,CHAM
+Dowa,Mvera_Support_Battalion_Health_Centre,1a,-13.77962569,34.13991283,Government of Malawi
+Dowa,Mwangala_Health_Centre,1a,-13.4872445,33.92334272,Government of Malawi
+Dowa,Thonje_Health_Centre,1a,-13.72621579,34.23716681,Government of Malawi
+Dowa,Nalunga_Health_Centre,1a,-13.64052376,34.06371981,Government of Malawi
+Dowa,Kasese_Health_Centre,1a,-13.33346368,33.57632899,
+Dowa,Mtengowanthenga_CHAM_Facility,1b,-13.67104801,33.77607274,CHAM
+Karonga,Atupele_Hospital,1b,-9.73652734,33.83754726,CHAM
+Karonga,Chilumba_Barracks_Health_Centre,1a,-10.39036741,34.20805954,Government of Malawi
+Karonga,Chilumba_Rural/_Community_Hospital,1b,-10.43249545,34.2516,Government of Malawi
+Karonga,Fulirwa_Health_Centre,1a,-10.44763695,34.11231861,Government of Malawi
+Karonga,Hara_Health_Centre,1a,-10.48881886,34.16910616,Government of Malawi
+Karonga,Iponga_Health_Centre,1a,-9.64616504,33.81227623,Government of Malawi
+Karonga,Kaporo_Rural/_Community_Hospital,1b,-9.76756,33.87466,Government of Malawi
+Karonga,Karonga_DHO_Pharmacy,2,-9.95490415,33.9114991,Government of Malawi
+Karonga,Kasoba_Health_Centre,1a,-9.87377612,33.87022828,Government of Malawi
+Karonga,Lupembe_Health_Centre,1a,-10.06598689,33.98780715,Government of Malawi
+Karonga,Lwezga_Health_Centre,1a,-10.56692,34.17943,Government of Malawi
+Karonga,Mlare_Health_Centre,1a,-10.17307733,34.03590545,Government of Malawi
+Karonga,Mpata_Health_Centre,1a,-9.96061546,33.81548241,Government of Malawi
+Karonga,Ngana_Health_Centre,1a,-9.62023622,33.69908344,Government of Malawi
+Karonga,Nyungwe_Health_Centre,1a,-10.28530814,34.10831437,Government of Malawi
+Karonga,Sangiro_Health_Centre,1b,-10.51609,34.21346,CHAM
+Karonga,St._Anne's_Health_Centre,1b,-13.75932703,32.99281371,CHAM
+Karonga,Wiliro_Health_Centre,1a,-9.89343858,33.61419514,Government of Malawi
+Kasungu,Anchor_Farm_Health_Centre,1a,-13.41410301,33.39074045,Government of Malawi
+Kasungu,Bua_Health_Centre,1a,-12.79624048,34.20976777,Government of Malawi
+Kasungu,Chamama_Health_Centre,1a,-12.924306,33.776861,Government of Malawi
+Kasungu,Chamwabvi_Health_Centre,1a,-13.10746871,33.68545024,Government of Malawi
+Kasungu,Chinyama_Health_Centre,1a,-16.03822,35.70899,Government of Malawi
+Kasungu,Chulu_Health_Centre,1a,-12.82217764,33.30824747,Government of Malawi
+Kasungu,Dwangwa_Dispensary,1a,-12.88137538,33.45385682,Government of Malawi
+Kasungu,Gogode_Dispensary,1a,-12.8877952,33.56146348,Government of Malawi
+Kasungu,Kaluluma_Rural/_Community_Hospital,1b,-12.50652586,33.51877158,Government of Malawi
+Kasungu,Kamboni_Health_Centre,1a,-13.30767608,33.18190635,Government of Malawi
+Kasungu,Kapelula_Health_Centre,1a,-12.87767,33.87086,Government of Malawi
+Kasungu,Kasungu_DHO_Pharmacy,2,-13.036061,33.480428,Government of Malawi
+Kasungu,Kawamba_Health_Centre,1a,-13.29574265,33.33951072,Government of Malawi
+Kasungu,Khola_Health_Centre,1a,-13.34447,33.31649,Government of Malawi
+Kasungu,Linyangwa_Health_Centre,1a,-13.13977086,33.29980692,Government of Malawi
+Kasungu,Livwezi_Health_Centre,1a,-12.89346093,33.6789963,Government of Malawi
+Kasungu,Lodjwa_Health_Centre,1a,-12.41902104,33.52950377,Government of Malawi
+Kasungu,Mdunga_Health_Centre,1a,-12.99306918,33.85196886,Government of Malawi
+Kasungu,Mkhota_Health_Centre,1a,-13.56660698,33.34344609,Government of Malawi
+Kasungu,Mnyanja_Health_Centre,1a,-12.72231564,33.48585748,Government of Malawi
+Kasungu,Mpepa_Health_Centre,1a,-12.62196528,33.32655702,Government of Malawi
+Kasungu,Mtunthama_Health_Centre,1a,-12.99825948,33.69890629,Government of Malawi
+Kasungu,Mziza_Health_Centre,1a,-13.27941,33.50405,Government of Malawi
+Kasungu,Newa_Health_Centre,1b,-12.58330167,33.38191146,CHAM
+Kasungu,Ofesi_Health_Centre,1a,-12.77941409,33.54878349,Government of Malawi
+Kasungu,Santhe_Health_Centre,1a,-13.46681879,33.39414792,Government of Malawi
+Kasungu,Simlemba_Health_Centre,1a,-12.74082713,33.67673326,Government of Malawi
+Kasungu,St._Andrews_Health_Centre,1b,-13.75932703,32.99281371,CHAM
+Kasungu,St._Faith_Health_Centre,1b,-12.92849711,33.79767183410503,CHAM
+Kasungu,Wimbe_Health_Centre,1a,-12.99126,33.68694,Government of Malawi
+Kasungu,kasalika_Health_Centre,1a,-13.03514797,33.4991962,Government of Malawi
+Kasungu,Nkhamenya_Hospital,1b,-12.56596515,33.50085205,CHAM
+Lilongwe,African_Bible_College_Clinic,1b,-13.96816,33.74129,CHAM
+Lilongwe,Area_18_Health_Centre,1a,-13.94131,33.78051,Government of Malawi
+Lilongwe,Area_25_Health_Centre,1a,-13.89491047,33.76206957,Government of Malawi
+Lilongwe,Area_30_Police_Clinic,1a,-13.92779978,33.78417545,Government of Malawi
+Lilongwe,Chadza_Health_Centre,1a,-14.14713951,33.84081504,Government of Malawi
+Lilongwe,Chikowa_Health_Centre,1a,-13.72943871,33.45819838,Government of Malawi
+Lilongwe,Child_Legacy_Health_Centre,1a,-14.06897697,33.47222166,
+Lilongwe,Chileka_Health_Centre,1a,-15.66287489,34.97058131,Government of Malawi
+Lilongwe,Chilobwe/Majiga_Health_Centre,1a,-13.85458262,33.37464065,Government of Malawi
+Lilongwe,Chimbalanga_Health_Centre,1a,-13.93677175,34.12419209,Government of Malawi
+Lilongwe,Chitedze_Health_Centre,1a,-13.97677652,33.64551506,Government of Malawi
+Lilongwe,Chiunjiza_Health_Centre,1a,-14.40548368,33.66914644,Government of Malawi
+Lilongwe,Chiwamba_Health_Centre,1a,-13.8571,33.92926,Government of Malawi
+Lilongwe,Chiwe_Health_Centre,1b,-13.90758711,33.39794978,CHAM
+Lilongwe,Chiwoza_Health_Centre,1a,-14.12570025,33.72090577,Government of Malawi
+Lilongwe,Daeyang_Luke_Hospital,1b,-13.87649257,33.80909249,CHAM
+Lilongwe,Diamphwi_Health_Centre,1a,-14.13423098,34.08167417,Government of Malawi
+Lilongwe,Dickson_Health_Centre,1a,-14.26635015,33.65882274,Government of Malawi
+Lilongwe,Dzenza_Health_Centre,1b,-13.87590152,33.746993,CHAM
+Lilongwe,FPAM_NGO_Health_Centre,1a,-13.99076188,33.79969784,
+Lilongwe,Kabudula_Rural/_Community_Hospital,1b,-13.81956471,33.44870849,Government of Malawi
+Lilongwe,Kamuzu_Barracks_Health_Centre,1a,-13.98131,33.82105,Government of Malawi
+Lilongwe,Kamuzu_Central_Hospital_Pharmacy,3,-13.97638885,33.78546839,Government of Malawi
+Lilongwe,Kang'oma_Health_Centre,1a,-13.97796605,33.88200711,Government of Malawi
+Lilongwe,Katchale_Health_Centre,1a,-14.2837577,33.90778606,Government of Malawi
+Lilongwe,Kawale_Health_Centre,1a,-13.9917479,33.79773912,Government of Malawi
+Lilongwe,Khongoni_Health_Centre,1a,-13.77432461,33.36739508,Government of Malawi
+Lilongwe,Lemwe_Health_Centre,1a,-13.88519434,33.34306199,Government of Malawi
+Lilongwe,Lilongwe_City_Assembly_Chinsapo_Clinic,1a,-14.01313233,33.73184311,
+Lilongwe,Lilongwe_DHO_Pharmacy,2,-13.99176714,33.77473441,Government of Malawi
+Lilongwe,Lumbadzi_Health_Centre,1a,-13.7706819,33.80494367,Government of Malawi
+Lilongwe,M'bang'ombe_I_Health_Centre,1a,-16.95190536,35.15535223278181,Government of Malawi
+Lilongwe,MPC_Bwaila_ART_CLINIC_Health_Centre,1a,-13.99109871,33.775938869178425,Government of Malawi
+Lilongwe,Macro_Lilongwe_Clinic_Health_Centre,1a,-13.99819349,33.77615941,
+Lilongwe,Malembo_Health_Centre,1a,-14.23660191,34.82519212,Government of Malawi
+Lilongwe,Malingunde_Health_Centre,1b,-14.1687758,33.63961648,CHAM
+Lilongwe,Maluwa_Health_Centre,1a,-14.26301657,33.87360174,Government of Malawi
+Lilongwe,Matapila_Health_Centre,1a,-14.01122899,33.97507563,Government of Malawi
+Lilongwe,Mbabvi_Health_Centre,1a,-13.92787259,33.67096245,Government of Malawi
+Lilongwe,Mbang'ombe_2_Health_Centre,1a,-14.16954014,33.37939757,Government of Malawi
+Lilongwe,Ming'ong'o_Health_Centre,1a,-14.07464968,33.44792204,Government of Malawi
+Lilongwe,Mitundu_Rural/_Community_Hospital,1b,-14.24876437,33.77465832,Government of Malawi
+Lilongwe,Mlodza_Health_Centre,1b,-14.00642445,33.817163544009524,CHAM
+Lilongwe,Mtenthera_Health_Centre,1a,-14.10790181,34.008857513716215,Government of Malawi
+Lilongwe,Mwayi_Clinic,1a,-15.81634481,35.01774196164344,
+Lilongwe,Nambuma_Hospital,1b,-13.69669093,33.59741559022806,CHAM
+Lilongwe,Nathenje_Health_Centre,1a,-14.08483481,33.90808687,Government of Malawi
+Lilongwe,Ndaula_Health_Centre,1a,-14.13861197,33.50799454,Government of Malawi
+Lilongwe,New_State_House_Clinic,1a,-13.96051,33.85089,Government of Malawi
+Lilongwe,Ngoni_Health_Centre,1a,-13.7749896,33.64066881,Government of Malawi
+Lilongwe,Nkhalango_Clinic,1a,-14.01249694,33.70522362,
+Lilongwe,Nkhoma_Hospital,1b,-14.04409353,34.1034744,CHAM
+Lilongwe,Nsaru_Health_Centre,1a,-13.88529571,33.50444601,Government of Malawi
+Lilongwe,Nthondo_Health_Centre,1a,-13.24725612,34.00612659,Government of Malawi
+Lilongwe,Nyamanda_Clinic,1a,-14.88204566,35.48328661,
+Lilongwe,Sunrise_Clinic,1a,-11.44607512,34.026351128646645,
+Lilongwe,Theatre_For_ChangeClinic,1a,-13.99449365,33.76536871277586,
+Lilongwe,Ukwe_Health_Centre,1a,-13.82586137,33.60129495,Government of Malawi
+Lilongwe,Bunda_College_Health_Centre,1a,-14.18063219,33.77556931,
+Lilongwe,Mbwatalika_Health_Centre,1b,-14.00368885,33.55080381,CHAM
+Lilongwe,Mlale_Hospital,1b,-14.23029162,33.75627759,CHAM
+Lilongwe,Likuni_Hospital,1b,-14.02766375,33.70926892,CHAM
+Lilongwe,Maula_Prison_Static_Art_Health_Centre,1a,-13.96928255,33.76793432,
+Lilongwe,St_Gabriel_Hospital,1b,-13.98384642,33.35055887,CHAM
+Lilongwe,Chimwala_Health_Centre,1b,-14.63660964,35.18230635,CHAM
+Machinga,Chamba_Dispensary,1a,-15.4657357,35.51673417,Government of Malawi
+Machinga,Chikweo_Health_Centre,1a,-14.76468205,35.66830545,Government of Malawi
+Machinga,Gawanani_Health_Centre,1b,-15.22379117,35.2031145,CHAM
+Machinga,Kawinga_Dispensary,1a,-14.85483275,35.57214777,Government of Malawi
+Machinga,Machinga_DHO_Pharmacy,2,-15.061979,35.22615575,Government of Malawi
+Machinga,Machinga_Health_Centre,1a,-15.061979,35.22615575,Government of Malawi
+Machinga,Mangamba_Health_Centre,1a,-14.79127478,35.43655569,Government of Malawi
+Machinga,Mbonechela_Dispensary,1a,-14.8893653,35.47822623,Government of Malawi
+Machinga,Mkwepere_Health_Centre,1a,-14.60294499,35.63612012,Government of Malawi
+Machinga,Mlomba_Dispensary,1a,-15.01890684,35.47718079,Government of Malawi
+Machinga,Mpiri_Health_Centre,1b,-14.77235089,35.60723399,CHAM
+Machinga,Mposa_Health_Centre,1b,-15.14961746,35.51849777,CHAM
+Machinga,Namanja_Health_Centre,1a,-14.96460014,35.67919511,Government of Malawi
+Machinga,Nayuchi_Health_Centre,1a,-14.97550444,35.86736653,Government of Malawi
+Machinga,Ngokwe_Health_Centre,1a,-14.70699006,35.80205691,Government of Malawi
+Machinga,Nsanama_Health_Centre,1b,-14.99509597,35.4953125,CHAM
+Machinga,Ntaja_Health_Centre,1a,-14.86844254,35.52944118,Government of Malawi
+Machinga,Nthorowa_Health_Centre,1b,-14.99524189,35.57311155,CHAM
+Machinga,Nyambi_Health_Centre,1a,-14.6900702,35.57232967,Government of Malawi
+Machinga,Nainunje_Health_Centre,1a,-14.74007727,35.56609828438184,Government of Malawi
+Machinga,Namandanje_Health_Centre,1b,-14.88204566,35.48328661,CHAM
+Mangochi,Assalaam_Clinic,1a,-14.54541887,35.19242823,
+Mangochi,Billy_Riordan_Memorial_Health_Clinic,1b,-14.03203658,34.84037883,CHAM
+Mangochi,Chikole_Health_Centre,1a,-14.42188591,35.38430456,Government of Malawi
+Mangochi,Chilipa_Health_Centre,1a,-14.70294623,34.9739151,Government of Malawi
+Mangochi,Chilonga_Health_care_Health_Centre,1a,-14.46686506,34.87100435,Government of Malawi
+Mangochi,Chiponde_Dispensary,1a,-14.37187487,35.60192523066257,Government of Malawi
+Mangochi,Chiumbangame_Dispensary,1a,-14.31907431,35.5552317,Government of Malawi
+Mangochi,Chiunda_Dispensary,1a,-14.77769443,35.43895418,Government of Malawi
+Mangochi,Iba_Health_Centre,1a,-14.30713644,35.39707243,Government of Malawi
+Mangochi,Jalasi_Health_Centre,1a,-14.36287674,35.4425821,Government of Malawi
+Mangochi,Kadango_Health_Centre,1a,-14.06216471,35.18625197,Government of Malawi
+Mangochi,Katema_Health_Centre,1b,-14.52574198,35.03757013,CHAM
+Mangochi,Katuli_Health_Centre,1a,-14.17992806,35.4444528,Government of Malawi
+Mangochi,Kukalanga_Dispensary,1a,-14.63758737,35.18037242,Government of Malawi
+Mangochi,Lulanga_Health_Centre,1b,-13.68758553,34.91748719,CHAM
+Mangochi,Lungwena_Health_Centre,1a,-14.24492339,35.24849977,Government of Malawi
+Mangochi,Luwalika_Health_Centre,1b,-14.2379603,35.46937378,CHAM
+Mangochi,Makanjira_Health_Centre,1a,-13.71522564,35.04713435,Government of Malawi
+Mangochi,Maldeco_Fisheries_Clinic,1b,-14.3335,35.1492,CHAM
+Mangochi,Malembo_Health_Centre,1b,-14.23660191,34.82519212,Government of Malawi
+Mangochi,Malombe_Dispensary,1a,-14.63023761,35.3493157,Government of Malawi
+Mangochi,Malukula_Health_Centre,1a,-14.44368338,35.3563161,Government of Malawi
+Mangochi,Mama_Khadija_Private_Clinic_Namwera,1a,-14.37065897,35.49422874,
+Mangochi,Mangochi_DHO_Pharmacy,2,-14.48154744,35.26515397,Government of Malawi
+Mangochi,Mase_Health_Centre,1b,-14.58050475,35.36406008,CHAM
+Mangochi,Mkumba_Health_Centre,1a,-14.59470146,35.52570458,Government of Malawi
+Mangochi,Monkeybay_Rural/_Community_Hospital,1b,-14.08478684,34.91098071,Government of Malawi
+Mangochi,Mpondasi_Health_Centre,1b,-14.45348468,35.24384651,CHAM
+Mangochi,Mtimabi_Health_Centre,1a,-14.61097648,35.08273216,Government of Malawi
+Mangochi,Namalaka_Health_Centre,1b,-14.12380687,35.19291172,CHAM
+Mangochi,Namwera_Rural/_Community_Hospital,1b,-14.3637377,35.50223373,Government of Malawi
+Mangochi,Nancholi_Dispensary,1a,-14.4783632,35.58690675,Government of Malawi
+Mangochi,Nangalamu_Health_Centre,1a,-14.48074899,35.67302797,Government of Malawi
+Mangochi,Nankhwali_Health_Centre,1b,-14.13504165,34.84455687,CHAM
+Mangochi,Nankumba_Health_Centre,1a,-14.36583347,34.82347913,Government of Malawi
+Mangochi,Ngapani_Clinic,1a,-14.03103035,35.33748163,
+Mangochi,Nkope_Health_Centre,1b,-14.1975249,35.03932285,CHAM
+Mangochi,Phirilongwe_Health_Centre,1a,-14.58823065,34.89885365,Government of Malawi
+Mangochi,Sinyala_Dispensary,1a,-14.58361285,35.57584605,Government of Malawi
+Mangochi,Sister_Martha_Health_Centre,1b,-14.38565926,35.53561649,CHAM
+Mangochi,St._Martins_Hospital,1b,-14.34782463,35.29372706,CHAM
+Mangochi,Lugola_Health_Centre,1b,-13.96137993,35.14302126,CHAM
+Mangochi,Somba_Clinic,1a,-14.64656358,35.53869142,
+Mangochi,Kapire_Dream_Centre_Health_Centre,1b,-14.78555849,34.99944068438282,CHAM
+Mangochi,Mulibwanji_Hospital,1b,-14.51161798,35.58787952,CHAM
+Mangochi,Koche_Health_Centre,1b,-14.33324913,35.14347706,CHAM
+Mangochi,Madina_Mobile_Clinic,1a,-15.77646523,35.03844241,
+Mchinji,Chiosya_Health_Centre,1a,-13.79607777,33.17498587,Government of Malawi
+Mchinji,Chipumi_Health_Centre,1a,-13.62519,33.08151,Government of Malawi
+Mchinji,Fanuel_Health_Centre,1a,-13.50435369,33.03630309,Government of Malawi
+Mchinji,Gumba_Health_Post_Health_Centre,1a,-13.42112075,33.11141263,Government of Malawi
+Mchinji,Kaigwazanga_Health_Centre,1a,-13.62630157,32.92862174,Government of Malawi
+Mchinji,Kapanga_Health_Centre,1a,-14.05997,33.30626,Government of Malawi
+Mchinji,Kochilira_Rural/_Community_Hospital,1b,-13.78164705,33.04321109415005,Government of Malawi
+Mchinji,Mchinji_DHO_Pharmacy,2,-13.80270063,32.88766758,Government of Malawi
+Mchinji,Mikundi_Health_Centre,1a,-13.70790321,33.13832016,Government of Malawi
+Mchinji,Mkanda_Health_Centre,1a,-13.5146,32.96085,Government of Malawi
+Mchinji,Nkhwazi_Health_Centre,1a,-13.92369,33.22672,Government of Malawi
+Mchinji,Tembwe_Health_Centre,1a,-13.90118628,33.06213115,Government of Malawi
+Mchinji,Ludzi_St_Josephs,1b,-12.18951116,34.01609154,CHAM
+Mchinji,Kapiri_Health_Centre,1b,-13.21599338,34.31138795738029,CHAM
+Mchinji,Guillime_Hospital,1b,-13.89022543,33.07551441,CHAM
+Mulanje,Bondo_Health_Centre,1a,-16.04283181,35.6140127,Government of Malawi
+Mulanje,Chambe_Health_Centre,1a,-15.90334,35.49075,Government of Malawi
+Mulanje,Chinyama_Health_Centre,1a,-16.03822,35.70899,Government of Malawi
+Mulanje,Chisitu_Health_Centre,1a,-16.00097106,35.43288295,Government of Malawi
+Mulanje,Chonde_Health_Centre,1a,-15.99714732,35.32333763,Government of Malawi
+Mulanje,Dzenje_Health_Centre,1a,-16.11681957,35.40568031,Government of Malawi
+Mulanje,Kambenje_Health_Centre,1a,-15.85287319,35.56373809,Government of Malawi
+Mulanje,Lujeri_Clinic,1a,-15.90334,35.49075,
+Mulanje,Mbiza_Health_Centre,1a,-16.09271649,35.34645385,Government of Malawi
+Mulanje,Milonde_Health_Centre,1a,-16.10278918,35.4780418,Government of Malawi
+Mulanje,Mimosa_Dispensary,1a,-16.08569048,35.61269371,Government of Malawi
+Mulanje,Mkomaula_Health_Centre,1a,-15.72110268,35.36680292,Government of Malawi
+Mulanje,Mpala_Health_Centre,1a,-16.14422918,35.52496922,Government of Malawi
+Mulanje,Mulanje_DHO_Pharmacy,2,-16.02541973,35.50760152,Government of Malawi
+Mulanje,Mulanje_Mission_Hospital,1b,-16.02541973,35.50760152,CHAM
+Mulanje,Mulomba_Health_Centre,1a,-15.76535,35.51182,Government of Malawi
+Mulanje,Muloza_Heath_Centre_Health_Centre,1a,-16.06252,35.76226,Government of Malawi
+Mulanje,Namasalima_Health_Centre,1b,-15.23129026,35.48884525,CHAM
+Mulanje,Namphungo_Health_Centre,1a,-15.80432171,35.3489467,Government of Malawi
+Mulanje,Namulenga_Health_Centre,1b,-15.86526893,35.3268594,CHAM
+Mulanje,Naphimba_Health_Centre,1a,-16.03628,35.67854,Government of Malawi
+Mulanje,Thembe_Health_Centre,1b,-16.08703,35.43417,CHAM
+Mulanje,Thuchila_Health_Centre,1a,-15.91884761,35.36117423,Government of Malawi
+Mwanza,Kunenekude_Health_Centre,1a,-15.46473827,34.49145689,Government of Malawi
+Mwanza,Mwanza_DHO_Pharmacy,2,-15.59133356,34.51015436,Government of Malawi
+Mwanza,Thambani_Health_Centre,1a,-15.72575074,34.399888,Government of Malawi
+Mwanza,Tulonkhondo_Health_Centre,1a,-15.74963587,34.52296099,Government of Malawi
+Mzimba_North,Bwengu_Health_Centre,1a,-11.06348676,33.91682896,Government of Malawi
+Mzimba_North,Choma_Health_Centre,1a,-11.31288772,33.99125993,Government of Malawi
+Mzimba_North,Ekwayiweni_Health_Centre,1a,-11.42305802,33.89751136,Government of Malawi
+Mzimba_North,Ekwendeni_Hospital,1b,-11.3712965,33.88314917,CHAM
+Mzimba_North,Emsizini_Health_Centre,1a,-11.44435672,33.82499225,Government of Malawi
+Mzimba_North,Engucwini_Health_Centre,1a,-11.19825441,33.8233938,Government of Malawi
+Mzimba_North,Enukweni_Health_Centre,1a,-11.17993611,33.8860131,Government of Malawi
+Mzimba_North,Kabwafu_Health_Centre,1a,-11.30900195,33.52593321,Government of Malawi
+Mzimba_North,Kafukule_Health_Centre,1a,-11.45739669,33.63390219,Government of Malawi
+Mzimba_North,Kamwe_Health_Centre,1a,-11.10307238,33.78909687,Government of Malawi
+Mzimba_North,Kaweche_Health_Centre,1a,-11.340591,33.86645517,Government of Malawi
+Mzimba_North,Khuyukuyu_Health_Centre,1a,-11.22183,33.91461,Government of Malawi
+Mzimba_North,Luvwere_Health_Centre,1a,-11.38902013,33.67294625,Government of Malawi
+Mzimba_North,Luzi_Health_Centre,1a,-10.99680478,33.95573617,Government of Malawi
+Mzimba_North,Malidade_Health_Centre,1a,-11.2294482,33.49994451,Government of Malawi
+Mzimba_North,Matuli_Health_Centre,1a,-11.48511749,33.8960144,Government of Malawi
+Mzimba_North,Moyale_Barracks_Health_Centre,1a,-11.44965005,34.02365231638026,Government of Malawi
+Mzimba_North,Mpherembe_Health_Centre,1a,-11.28813273,33.61460711,Government of Malawi
+Mzimba_North,Mtwalo_Health_Centre,1a,-11.39668307,33.74600505,Government of Malawi
+Mzimba_North,Mzimba_North_DHO_Pharmacy,2,-11.89815851,33.58456005,Government of Malawi
+Mzimba_North,Mzuzu_Central_Hospital_Pharmacy,3,-11.42807196,33.99611699,Government of Malawi
+Mzimba_North,Njuyu_Health_Centre,1a,-11.52461195,33.69943264,Government of Malawi
+Mzimba_North,Nkhorongo_Health_Centre,1b,-11.38997261,33.98502334,CHAM
+Mzimba_North,Thunduwike_Health_Centre,1a,-11.17620088,33.57627253,Government of Malawi
+Mzimba_North,Zolozolo_Health_Centre,1a,-11.43517473,34.02400646,Government of Malawi
+Mzimba_North,Manolo_Health_Centre,1a,-11.25085794,33.4394368,Government of Malawi
+Mzimba_North,St._Johns_Hospital,1b,-13.75932703,32.99281371,CHAM
+Mzimba_South,Bulala_Health_Centre,1a,-11.67844797,33.44774724,Government of Malawi
+Mzimba_South,Chikangawa_Health_Centre,1a,-11.84312784,33.80057915,Government of Malawi
+Mzimba_South,Edingeni_Health_Centre,1a,-12.04089043,33.3134624,Government of Malawi
+Mzimba_South,Ehehieni_Dispensary,1a,-12.26208888,33.58922863,Government of Malawi
+Mzimba_South,Embangweni_Hospital,1b,-12.135805,33.4769742,CHAM
+Mzimba_South,Emfeni_Health_Centre,1a,-12.59391782,33.60979331,Government of Malawi
+Mzimba_South,Endindeni_Health_Centre,1a,-11.75826586,33.55588393,Government of Malawi
+Mzimba_South,Euthini_Rural/_Community_Hospital,1b,-11.45855545,33.41947056,Government of Malawi
+Mzimba_South,Hoho_Health_Centre,1a,-12.27799227,33.68646655,Government of Malawi
+Mzimba_South,Jenda_Health_Centre,1a,-12.35210122,33.54755485,Government of Malawi
+Mzimba_South,Kabuwa_Health_Centre,1a,-12.51726,34.07395,Government of Malawi
+Mzimba_South,Kalikumbi_Health_Centre,1b,-12.203988,33.33368118,CHAM
+Mzimba_South,Kamteteka_Health_Centre,1a,-11.83648798,33.35883742,Government of Malawi
+Mzimba_South,Katete_Hospital,1b,-12.3461488,33.61400317,CHAM
+Mzimba_South,Khosolo_Health_Centre,1a,-12.43996473,33.7914234,Government of Malawi
+Mzimba_South,Lunjika_Health_Centre,1b,-11.71452954,33.68589183,CHAM
+Mzimba_South,Luwawa_Health_Centre,1a,-12.11335119,33.71947358,Government of Malawi
+Mzimba_South,Luwelezi_Health_Centre,1a,-12.4882194,33.64106231,Government of Malawi
+Mzimba_South,Mabiri_Health_Centre,1b,-12.24643978,33.42990206,CHAM
+Mzimba_South,Madede_Health_Centre,1a,-11.53901211,33.29443852,Government of Malawi
+Mzimba_South,Manyamula_Health_Centre,1a,-11.93990411,33.43939501,Government of Malawi
+Mzimba_South,Mhalaunda_Health_Centre,1b,-12.05090165,33.46683044,CHAM
+Mzimba_South,Mkoma_Health_Centre,1a,-12.61234262,33.78271907,Government of Malawi
+Mzimba_South,Msese_Health_Centre,1a,-12.35951744,33.7398712,Government of Malawi
+Mzimba_South,Mtende_Health_Centre,1a,-11.49741659,33.54889263,Government of Malawi
+Mzimba_South,Mzalangwe_Health_Centre,1a,-11.61228,33.5651,Government of Malawi
+Mzimba_South,Mzimba_South_DHO_Pharmacy,2,-11.89815851,33.58456005,Government of Malawi
+Mzimba_South,Raiply_Clinic,1a,-11.91644,33.75598,
+Mzimba_South,Vibangalala_Dispensary,1a,-12.23427095,33.48617588,Government of Malawi
+Mzimba_South,Mbalachanda_Health_Centre,1a,-11.3577196,33.37148776,Government of Malawi
+Mzimba_South,Mzambazi_Hospital,1b,-11.44979532,33.43284336,CHAM
+Neno,Chifunga_Health_Centre,1a,-15.59863375,34.69940087,Government of Malawi
+Neno,Dambe_Health_Centre,1a,-15.38622476,34.57764124,Government of Malawi
+Neno,Ligowe_Health_Centre,1a,-15.47298988,34.65289699,Government of Malawi
+Neno,Lisungwi_Rural/_Community_Hospital,1b,-15.42561548,34.78671293419781,Government of Malawi
+Neno,Luwani_Health_Centre,1a,-15.47969927,34.74245963,Government of Malawi
+Neno,Magaleta_Health_Centre,1a,-15.55074471,34.62841732,Government of Malawi
+Neno,Matandani_Health_Centre_(CHAM),1a,-15.33051374,34.6534253,CHAM
+Neno,Matope_Health_Centre_(CHAM),1a,-15.35355011,34.94735496,CHAM
+Neno,Neno_DHO_Pharmacy,2,-15.39529238,34.65344461,Government of Malawi
+Neno,Neno_Parish_Health_Centre_(CHAM),1a,-15.4367857,34.608639176465985,CHAM
+Neno,Nkula_Clinic,1a,-15.52169324,34.82530384577574,
+Neno,Nsambe_Health_Centre_(CHAM),1a,-15.26166,34.61339751,CHAM
+Neno,Tedzani_ESCOM_Clinic,1a,-15.560917,34.786382,
+Neno,Zalewa_Dapp_(dapp_Hope)_Clinic,1a,-15.44169075,34.86235915841617,
+Neno,Neno_Parish_Health_Centre_(CHAM),1b,-15.4367857,34.608639176465985,CHAM
+Neno,Nsambe_Health_Centre_(CHAM),1b,-15.26166,34.61339751,CHAM
+Neno,Matope_Health_Centre_(CHAM),1b,-15.35355011,34.94735496,CHAM
+Nkhata_bay,Bula_Health_Centre,1a,-11.22270889,34.12322614,Government of Malawi
+Nkhata_bay,Chikwina_Health_Centre,1a,-11.39701237,34.16970886,Government of Malawi
+Nkhata_bay,Chilambwe_Health_Centre,1b,-11.69136065,34.31622442,CHAM
+Nkhata_bay,Chintcheche_Rural/_Community_Hospital,1b,-11.82650131,34.16884339,Government of Malawi
+Nkhata_bay,Chisala_Health_Centre,1a,-11.57407088,34.1222123,Government of Malawi
+Nkhata_bay,Chitheka_Health_Centre,1a,-11.70203992,33.95139428,Government of Malawi
+Nkhata_bay,Kachere_Health_Centre,1a,-14.00508384,33.81733265,Government of Malawi
+Nkhata_bay,Kande_Health_Centre,1a,-11.93589365,34.10946308,Government of Malawi
+Nkhata_bay,Kavuzi_Clinic,1a,-11.67438745,34.08190055,
+Nkhata_bay,Kawalazi_Plantation_Clinic,1a,-11.67434385,34.076049268997075,
+Nkhata_bay,Khondowe_Health_Centre,1a,-11.07281,34.21939,Government of Malawi
+Nkhata_bay,Liuzi_Health_Centre,1a,-12.18951116,34.01609154,Government of Malawi
+Nkhata_bay,Lwazi_Health_Centre,1b,-11.51874934,34.15134079,CHAM
+Nkhata_bay,Maula_Health_Centre,1a,-11.73518,34.23514,Government of Malawi
+Nkhata_bay,Mpamba_Health_Centre,1a,-11.54692168,34.19744555,Government of Malawi
+Nkhata_bay,Mwaya_Health_Centre,1a,-11.97669551,34.07590834,Government of Malawi
+Nkhata_bay,Mzenga_Health_Centre,1a,-11.73254415,34.07709233,Government of Malawi
+Nkhata_bay,Nkhata_Bay_DHO_Pharmacy,2,-11.6070462,34.2541858,Government of Malawi
+Nkhata_bay,Nthungwa_Health_Centre,1a,-11.66004852,33.80064288,Government of Malawi
+Nkhata_bay,Ruarwe_Health_Centre,1a,-11.11117,34.23418,Government of Malawi
+Nkhata_bay,St_Mary's_/_Chizumulu_Health_Centre,1a,-12.02902215,34.62456251,Government of Malawi
+Nkhata_bay,St_Peters_Hospital,1b,-15.17727552,35.064110382533244,Government of Malawi
+Nkhata_bay,Tchesamu_Health_Centre,1a,-11.85415381,34.01838519,Government of Malawi
+Nkhata_bay,Tukombo_Health_Centre,1a,-12.09814352,34.05103231,Government of Malawi
+Nkhata_bay,Usisya_Health_Centre,1a,-11.23939114,34.20894171,Government of Malawi
+Nkhata_bay,Vizara_Plantation_Clinic,1a,-11.66665795,34.2612242,
+Nkhota_Kota,Bua_Health_Centre,1a,-12.79624048,34.20976777,Government of Malawi
+Nkhota_Kota,Chididi_Health_Centre,1b,-13.08565868,34.3146475,CHAM
+Nkhota_Kota,Dwambazi_Rural/_Community_Hospital,1b,-12.23371626,33.99238482431544,Government of Malawi
+Nkhota_Kota,Kapili_Health_Centre,1b,-13.21605994,34.31131068,CHAM
+Nkhota_Kota,Kasitu_Health_Centre,1b,-12.30940343,34.03445468,CHAM
+Nkhota_Kota,Katimbira_Health_Centre,1a,-12.75705199,34.21757629,Government of Malawi
+Nkhota_Kota,Kawongozi_Health_Centre,1a,-12.43657256,34.05114275366073,Government of Malawi
+Nkhota_Kota,Liwaladzi_Health_Centre,1b,-12.62039501,34.16530078,CHAM
+Nkhota_Kota,Malowa_Health_Centre,1a,-13.18183164,34.25152491,Government of Malawi
+Nkhota_Kota,Matiki_Clinic,1a,-12.49647815,34.157619888062605,
+Nkhota_Kota,Mpamantha_Health_Centre,1a,-13.06939214,34.2520653,Government of Malawi
+Nkhota_Kota,Msenjere_Health_Centre,1a,-12.7327265,34.1704156,Government of Malawi
+Nkhota_Kota,Mtosa_Health_Centre,1a,-13.43877785,34.27389152,Government of Malawi
+Nkhota_Kota,Mwansambo_Health_Centre,1a,-13.3068734,34.11857144,Government of Malawi
+Nkhota_Kota,Ngala_Health_Centre,1a,-12.36555086,34.06522933,Government of Malawi
+Nkhota_Kota,Nkhotakota_DHO_Pharmacy,2,-12.9242656,34.2783633,Government of Malawi
+Nkhota_Kota,Nkhunga_Health_Centre,1a,-12.48023306,34.10868252,Government of Malawi
+Nkhota_Kota,St._Annes_Hospital,1b,-13.75932703,32.99281371,CHAM
+Nkhota_Kota,Alinafe_Hospital,1b,-13.3878952,34.24318233,CHAM
+Nkhota_Kota,Benga_Health_Centre,1a,-13.36827584,34.27364163,Government of Malawi
+Nkhota_Kota,Dwangwa_Cane_Growers_Limited_Clinic,1a,-12.88137538,33.45385682,
+Nkhota_Kota,World_Medical_Fund_Clinic,1a,-12.91514993,34.28331364,
+Nsanje,Chididi_Health_Centre,1b,-13.08565868,34.3146475,CHAM
+Nsanje,Lulwe_Health_Centre,1b,-17.08762051,35.11411624,CHAM
+Nsanje,Makhanga_Health_Centre,1a,-16.33721,35.09671,Government of Malawi
+Nsanje,Masenjere_Health_Centre,1a,-16.33739797,35.09653852,Government of Malawi
+Nsanje,Mbenje_Health_Centre,1a,-16.99464,35.22079,Government of Malawi
+Nsanje,Ndamera_Health_Centre,1a,-17.09570771,35.21887801,Government of Malawi
+Nsanje,Nsanje_DHO_Pharmacy,2,-16.91761401,35.26005597,Government of Malawi
+Nsanje,Nyamithuthu_Health_Centre,1a,-16.6822822,35.19814275,Government of Malawi
+Nsanje,Phokera_Health_Centre,1a,-16.62843971,35.1565406,Government of Malawi
+Nsanje,Sorgin_Health_Centre,1a,-16.54259018,35.01197163,Government of Malawi
+Nsanje,Tengani_Health_Centre,1a,-16.73278525,35.27050242,Government of Malawi
+Nsanje,Sankhulani_Health_Centre,1a,-16.45683672,35.25885614,Government of Malawi
+Nsanje,Trinity_Hospital,1b,-16.41902873,35.17115604,CHAM
+Nsanje,Kalemba_Hospital,1b,-16.57573405,35.11162305,CHAM
+Ntcheu,Bilila_Health_Centre,1a,-14.82500219,34.85118486,Government of Malawi
+Ntcheu,Biliwiri_Health_Centre,1a,-14.76068411,34.55761209,Government of Malawi
+Ntcheu,Bwanje_Health_Centre,1a,-14.64891909,34.77465368,Government of Malawi
+Ntcheu,Champiti_Health_Centre,1a,-14.90247774,34.73191682,Government of Malawi
+Ntcheu,Chigodi_Health_Centre,1b,-14.49214836,34.54093714,CHAM
+Ntcheu,Chikande_Health_Centre,1a,-14.77263159,34.90742043,Government of Malawi
+Ntcheu,Chikowa_-NU036_Health_Centre,1a,-13.72943871,33.45819838,Government of Malawi
+Ntcheu,Doviko_Health_Centre,1a,-15.08229075,34.59075155,Government of Malawi
+Ntcheu,Dzunje_Health_Centre,1a,-14.80807563,34.73583571,Government of Malawi
+Ntcheu,Gowa_Health_Centre,1b,-14.69909023,34.59004442,CHAM
+Ntcheu,Kalimanjira_Health_Centre,1a,-14.86677944,34.90902648,Government of Malawi
+Ntcheu,Kandeu_Health_Centre,1a,-14.60261688,34.61623287,Government of Malawi
+Ntcheu,Kapeni_Health_Centre,1a,-15.00496475,34.77068689,Government of Malawi
+Ntcheu,Kasinje_Health_Centre,1a,-14.52355122,34.67649189,Government of Malawi
+Ntcheu,Katsekera_Health_Centre,1a,-15.03342472,34.64101853,Government of Malawi
+Ntcheu,Lake_View_Health_Centre,1b,-14.64232066,34.55364204,CHAM
+Ntcheu,Lizulu_Health_Centre,1a,-14.51767008,34.46597436,Government of Malawi
+Ntcheu,Manjawira_Health_Centre,1a,-15.00836874,34.85986814,Government of Malawi
+Ntcheu,Masasa_Dispensary,1a,-14.43337027,34.42250872,Government of Malawi
+Ntcheu,Matanda_Health_Centre,1b,-15.10538742,34.66822585,CHAM
+Ntcheu,Mlanda_Health_Centre,1b,-14.47865252,34.45995412,CHAM
+Ntcheu,Mlangeni_Health_Centre,1a,-14.67682788,34.53665275,Government of Malawi
+Ntcheu,Mtonda_Health_Centre,1b,-15.02032498,34.75225153,CHAM
+Ntcheu,Muluma_Health_Centre,1b,-14.70487862,34.618774993905895,CHAM
+Ntcheu,Nsipe_Health_Centre,1b,-14.86450604,34.75183567,CHAM
+Ntcheu,Nsiyaludzu_Health_Centre,1a,-14.93671822,34.87421244,Government of Malawi
+Ntcheu,Ntcheu_DHO_Pharmacy,2,-14.81724142,34.63848485,Government of Malawi
+Ntcheu,Nzama_Health_Centre,1b,-14.89270459,34.58574978,CHAM
+Ntcheu,Senzani_Health_Centre,1b,-15.07843094,34.8579926,CHAM
+Ntcheu,Mphepozinayi_Health_Centre,1a,-14.73589328,34.66108566,Government of Malawi
+Ntcheu,Sister_Theresa_Mikoke_Hospital,1b,-14.99897102,34.82779744810177,CHAM
+Ntcheu,Tsangano_Health_Centre,1b,-15.173758,34.61089072,CHAM
+Ntcheu,Phanga_Health_Centre,1a,-14.34496791,34.72008994,Government of Malawi
+Ntcheu,Ganya_Health_Centre,1b,-14.60976578,34.61784484,CHAM
+Ntcheu,Sharpe_Valley_Health_Centre,1b,-14.61135408,34.73689605,CHAM
+Ntchisi,Chinguluwe_Health_Centre,1a,-13.26143878,33.86848606,Government of Malawi
+Ntchisi,Chinthembwe_Health_Centre,1b,-13.433722,33.9751377,CHAM
+Ntchisi,Kamsonga_Health_Centre,1a,-13.27439123,33.79942245,Government of Malawi
+Ntchisi,Kangolwa_Health_Centre,1a,-13.37021582,34.07034295,Government of Malawi
+Ntchisi,Khuwi_Health_Centre,1a,-13.43176018,33.83406493,Government of Malawi
+Ntchisi,Malomo_Health_Centre,1a,-13.14823668,33.83928524,Government of Malawi
+Ntchisi,Mkhuzi_Health_Centre,1a,-13.36622623,33.77687683,Government of Malawi
+Ntchisi,Mndinda_Health_Centre,1a,-13.24752908,34.05712779,Government of Malawi
+Ntchisi,Mzandu_Health_Centre,1a,-13.48924527,34.02753301,Government of Malawi
+Ntchisi,Ntchisi_DHO_Pharmacy,2,-13.36350929,33.91049786,Government of Malawi
+Ntchisi,Nthondo_Health_Centre,1a,-13.24725612,34.00612659,Government of Malawi
+Ntchisi,Malambo_Health_Centre,1b,-13.21299058,33.76250912,CHAM
+Phalombe,Chiringa_Maternity_Health_Centre,1a,-15.76559173,35.7619677,Government of Malawi
+Phalombe,Chitekesa_Health_Centre,1a,-15.55196571,35.57257733,Government of Malawi
+Phalombe,Kalinde_Health_Centre,1a,-15.67184974,35.72814915,Government of Malawi
+Phalombe,Migowi_Health_Centre,1a,-15.71953793,35.685598,Government of Malawi
+Phalombe,Mpasa_Health_Centre,1a,-15.75785315,35.61159033,Government of Malawi
+Phalombe,Mulungu_Alinafe_Clinic,1a,-15.8570848,35.81577283,
+Phalombe,Mwanga_Health_Centre,1b,-15.64615897,35.53228359,CHAM
+Phalombe,Nambazo_Health_Centre,1a,-15.55669205,35.81950424,Government of Malawi
+Phalombe,Nazombe_(GoGo)_Health_Centre,1a,-15.76955716,35.76948038,Government of Malawi
+Phalombe,Nkhulambe_Health_Centre,1a,-15.85786635,35.75123731,Government of Malawi
+Phalombe,Nkhwayi_Health_Centre,1a,-15.61441499,35.62833159,Government of Malawi
+Phalombe,Phalombe_DHO_Pharmacy,2,-15.71731409,35.70473078809845,Government of Malawi
+Phalombe,Sukasanje_Health_Centre,1b,-15.93017919,35.76545875,CHAM
+Phalombe,Chiringa_CHAM,1b,-15.76559173,35.7619677,CHAM
+Rumphi,Bolero_Rural/_Community_Hospital,1b,-10.98862943,33.75488105209381,Government of Malawi
+Rumphi,Chisimuka_Health_Centre,1a,-10.76924,33.55751,Government of Malawi
+Rumphi,Chitimba_Health_Centre,1a,-10.59768727,34.17036706,Government of Malawi
+Rumphi,David_Gordon_Memorial_Hospital,1b,-10.60404069,34.111200063003515,CHAM
+Rumphi,Jalawe_Health_Centre,1a,-10.73071902,34.16155132,Government of Malawi
+Rumphi,Katowo_Rular/_Community_Hospital,1b,-10.81237288,33.52248118618797,Government of Malawi
+Rumphi,Lura_Health_Centre,1a,-10.72637402,34.04411692,Government of Malawi
+Rumphi,Luwuchi_Health_Centre,1b,-10.68353,34.19353,CHAM
+Rumphi,Mhuju_Rural/_Community_Hospital,1b,-10.86631804,33.995172582478574,Government of Malawi
+Rumphi,Mlowe_Health_Centre,1b,-10.76429,34.19488,CHAM
+Rumphi,Mphompha_Health_Centre,1a,-11.00634144,34.07315449,Government of Malawi
+Rumphi,Mwazisi_Health_Centre,1a,-10.94385116,33.57914554,Government of Malawi
+Rumphi,Mzokoto_Health_Centre,1a,-10.90777,34.02735,Government of Malawi
+Rumphi,Ng'onga_Health_Centre,1a,-10.93922,33.94348,Government of Malawi
+Rumphi,Nthenje_Health_Centre,1b,-10.91788,33.98786,CHAM
+Rumphi,Rumphi_DHO_Pharmacy,2,-11.01978992,33.85382845,Government of Malawi
+Rumphi,Tcharo_Health_Center,1b,-10.96203673,34.2231048,CHAM
+Salima,Chagunda_Health_Centre,1a,-13.88061973,34.36723667,Government of Malawi
+Salima,Chinguluwe_Health_Centre,1a,-13.26143878,33.86848606,Government of Malawi
+Salima,Chipoka_Health_Centre,1a,-13.98953257,34.51547598,Government of Malawi
+Salima,Chitala_Health_Centre,1b,-13.67174691,34.27132531,CHAM
+Salima,Katawa_Clinic,1a,-13.71275337,34.31814159,
+Salima,Khombedza_Health_Centre,1a,-13.59675149,34.31108433,Government of Malawi
+Salima,Life_Line_Salima_Health_Centre,1a,-14.091724,34.544869,
+Salima,Lifuwu_Health_Centre,1a,-13.67898893,34.58849978,Government of Malawi
+Salima,MAFCO_Health_Centre,1a,-13.75094368,34.608217812247936,Government of Malawi
+Salima,Maganga_Health_Centre,1a,-13.84699417,34.55955989,Government of Malawi
+Salima,Makioni_Health_Centre,1a,-13.58602824,34.19701256,Government of Malawi
+Salima,Mchoka_Health_Centre,1a,-13.92592757,34.4899871,Government of Malawi
+Salima,Ngodzi_Health_Centre,1b,-14.08973594,34.51194982,CHAM
+Salima,Parachute_Battalion_Clinic,1a,-13.74003407,34.59023516109687,Government of Malawi
+Salima,Salima_DHO_Pharmacy,2,-13.7618883,34.4219424,Government of Malawi
+Salima,Senga_Bay_Baptist_Medical_Clinic,1b,-13.7411062,34.59553694402902,CHAM
+Salima,Thavite_Health_Centre,1b,-13.49797522,34.26131157,CHAM
+Salima,Kaphatenga_Health_Centre,1b,-13.76295585,34.38377661,CHAM
+Thyolo,Bvumbwe_Makungwa_Health_Centre,1a,-15.93940738,35.02644377,Government of Malawi
+Thyolo,Bvumbwe_Research_Health_Centre,1a,-15.93940738,35.02644377,Government of Malawi
+Thyolo,Changata_Health_Centre,1a,-16.078196,35.061008,Government of Malawi
+Thyolo,Chimaliro_Health_Centre,1a,-15.97707439,35.18169792,Government of Malawi
+Thyolo,Chimvu_Health_Centre,1a,-15.94056505,35.12324402722231,Government of Malawi
+Thyolo,Chipho_Health_Centre,1b,-16.26210456,35.29531453,CHAM
+Thyolo,Chisoka_Health_Centre,1a,-15.94161504,35.20884239,Government of Malawi
+Thyolo,Dzimbiri_(DiDi)_Health_Centre,1a,-16.06080453,34.98975706,Government of Malawi
+Thyolo,Gombe_Health_Centre,1a,-16.37273403,35.23151188,Government of Malawi
+Thyolo,Khonjeni_Health_Centre,1a,-16.09664606,35.27145065,Government of Malawi
+Thyolo,Makapwa_Health_Centre,1b,-16.18199,35.27984,CHAM
+Thyolo,Malamulo_Hospital,1b,-16.17142195,35.11004933,CHAM
+Thyolo,Mangunda_Health_Centre,1a,-16.02884,35.26166,Government of Malawi
+Thyolo,Mapanga_Clinic,1a,-16.27632984,35.19706078,Government of Malawi
+Thyolo,Mikolongwe_Health_Centre,1a,-15.901658,35.18368091,Government of Malawi
+Thyolo,St._Hellena_Oakley_(Ntambanyama)_Health_Centre,1b,-16.12443361,35.083808920657994,CHAM
+Thyolo,Thekerani_Rural/_Community_Hospital,1b,-16.32103082,35.20748759,Government of Malawi
+Thyolo,Thomasi_Health_Centre,1b,-16.02873824,34.97925053,CHAM
+Thyolo,Thyolo_DHO_Pharmacy,2,-16.06872413,35.14727093,Government of Malawi
+Thyolo,Chingazi_Hospital,1b,-15.91827971,35.20605577,CHAM
+Thyolo,St_Joseph_Mitengo_Health_Centre,1b,-16.11073543,35.24561581323808,CHAM
+Thyolo,St._Martin's_Molere_Health_Centre_CHAM,1b,-16.21761048,35.1359326,CHAM
+Thyolo,Zoa_Health_Centre,1a,-16.23768535,35.19990227,Government of Malawi
+Zomba,Airwing_Clinic_Health_Centre,1a,-15.3887911,35.38518027,Government of Malawi
+Zomba,Bimbi_Health_Centre,1a,-15.30919392,35.47965624,Government of Malawi
+Zomba,Chamba_Health_Centre,1a,-15.4657357,35.51673417,Government of Malawi
+Zomba,Chancellor_College_Clinic_Health_Centre,1a,-15.38552678,35.33211816,
+Zomba,Changalume_Barracks_Health_Centre,1a,-15.39040777,35.21219306,Government of Malawi
+Zomba,Chilipa_Health_Centre,1b,-14.70294623,34.9739151,Government of Malawi
+Zomba,Chingale_Health_Centre,1a,-15.3969052,35.18084713,Government of Malawi
+Zomba,Chipini_Health_Centre,1b,-15.38987821,35.09524179,CHAM
+Zomba,Chisi_Health_Centre,1a,-15.331323,35.618214,Government of Malawi
+Zomba,City_Clinic_Zomba,1a,-15.39060061,35.32400426,Government of Malawi
+Zomba,Cobbe_Barracks_Health_Centre,1a,-15.39079931,35.30493108,Government of Malawi
+Zomba,Domasi_Rural/_Community_Hospital,1b,-15.28116425,35.39940644,Government of Malawi
+Zomba,H_Parker_Sharp_Health_Centre,1b,-15.29913607,35.36081376,CHAM
+Zomba,Lambulira_Health_Centre,1a,-15.48437047,35.33715324,Government of Malawi
+Zomba,Likangala_Health_Centre,1a,-15.42777145,35.54443498,Government of Malawi
+Zomba,M'mambo_Health_Centre,1a,-15.26276392,35.15964959,Government of Malawi
+Zomba,Machinjiri_Health_Centre,1a,-15.23701593,35.41773906,Government of Malawi
+Zomba,Maera_Health_Centre,1a,-15.50987,35.1315,Government of Malawi
+Zomba,Magomero_Health_Centre,1b,-15.56163744,35.26114307,CHAM
+Zomba,Makwapala_Health_Centre,1a,-15.36956373,35.4508597,Government of Malawi
+Zomba,Matawale_Health_Centre,1a,-15.39035159,35.35942825,Government of Malawi
+Zomba,Naisi_Health_Centre,1a,-15.35762807,35.38521225,Government of Malawi
+Zomba,Namadidi_clinic_Health_Centre,1a,-15.41070027,35.24770725,Government of Malawi
+Zomba,Namasalima_Health_Centre,1a,-15.23129026,35.48884525,CHAM
+Zomba,Namikango_Maternity_Health_Centre,1b,-14.07179666,34.9152199,CHAM
+Zomba,Nasawa_Health_Centre,1a,-15.60259919,35.25951378,Government of Malawi
+Zomba,Ngwelelo_Health_Centre,1a,-15.66657679,35.42728583,Government of Malawi
+Zomba,Nkasala_Health_Centre,1b,-15.327981,35.21684073,CHAM
+Zomba,Police_College_Hospital,1b,-15.39119461,35.327279,Government of Malawi
+Zomba,Sadzi_Health_Centre,1a,-15.40886088,35.31948179,Government of Malawi
+Zomba,St._Lukes_Hospital,1b,-15.20915154,35.35237756,CHAM
+Zomba,State_House_Clinic_Health_Centre,1a,-15.38212922,35.31347031322719,Government of Malawi
+Zomba,Thondwe_Health_Centre,1a,-15.48424906,35.2367553,Government of Malawi
+Zomba,Zilindo_Health_Centre,1a,-15.38039177,35.30137766,Government of Malawi
+Zomba,Zomba_Central_Hospital,3,-15.39878358,35.31407245,Government of Malawi
+Zomba,Zomba_Central_Prison_Clinic_Health_Centre,1a,-15.39634842,35.31201046,
+Zomba,Zomba_DHO_Pharmacy,2,-15.40093536,35.312904147628934,Government of Malawi
+Zomba,Zomba_Mental_Hospital,4,-15.39875131,35.30414223,Government of Malawi
+Zomba,Matiya_Health_Centre,1b,-15.5336173,35.54773025,CHAM
+Zomba,Mayaka_Health_Centre,1b,-15.57340046,35.37291316,CHAM
+Zomba,Mikuyu_Adult_Clinic,1a,-15.41115913,35.41720743,Government of Malawi
+Zomba,Mwandama_Health_Centre,1a,-15.49803,35.18803,Government of Malawi
+Zomba,Pirimiti_Hospital,1b,-15.48180215,35.45060271,CHAM

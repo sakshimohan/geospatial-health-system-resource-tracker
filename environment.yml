@@ -1,0 +1,17 @@
+name: gis-vibe
+channels:
+  - conda-forge
+dependencies:
+  - python=3.11
+  - geopandas
+  - shapely
+  - pyproj
+  - fiona
+  - rasterio
+  - scikit-image
+  - scipy
+  - numpy
+  - pandas
+  - streamlit
+  - folium
+  - streamlit-folium

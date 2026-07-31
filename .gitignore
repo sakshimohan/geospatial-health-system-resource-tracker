@@ -1,0 +1,7 @@
+Malawi_100m_Population/
+landcover/
+roads/
+.DS_Store
+__pycache__/
+*.pyc
+.streamlit/
